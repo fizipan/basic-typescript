@@ -1,2 +1,5 @@
-dist
+# Compiler 
+/dist
+
+# Config
 tsconfig.json
