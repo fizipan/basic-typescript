@@ -20,7 +20,7 @@ tsc -w
 
 ## Setup
 
-1. include the script you want to run which is located in the `dist` . folder, Example
+1. include the script in the HTML you want to run which is located in the `dist` . folder, Example
 
 ```html
 <!-- Add yout file javascript in folder dist when you done compile -->
