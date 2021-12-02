@@ -17,3 +17,16 @@ npm install -g typescript
 ```typescript
 tsc -w
 ```
+
+## Setup
+
+1. include the script you want to run which is located in the `dist` . folder, Example
+
+```html
+<!-- Add yout file javascript in folder dist when you done compile -->
+<script src="dist/basic-types/index.js"></script>
+```
+
+2. Open your favorite browser and not the console tab
+
+3. Have a good study💪✊🚀
