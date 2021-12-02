@@ -27,6 +27,6 @@ tsc -w
 <script src="dist/basic-types/index.js"></script>
 ```
 
-2. Open your favorite browser and not the console tab
+2. Open your favorite browser and go to the console tab
 
 3. Have a good study💪✊🚀
