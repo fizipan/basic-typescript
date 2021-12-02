@@ -30,3 +30,11 @@ tsc -w
 2. Open your favorite browser and go to the console tab
 
 3. Have a good study💪✊🚀
+
+
+## Support me
+
+Consider to support me, at least click the 🌟 button
+
+
+© 2021 Crafted by Hafizh Maulana Y
