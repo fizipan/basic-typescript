@@ -1,6 +1,6 @@
 // NOTES: ------------------------------------------------------------ //
 // Sometimes, you'll find libraries that expect more than one parameter
-// to be a number or a string. For example "union"
+// to be a number or a string or etc. For example "union"
 
 // Type union -------------------------------------------------- //
 
