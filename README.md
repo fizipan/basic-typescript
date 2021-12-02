@@ -14,6 +14,6 @@ npm install -g typescript
 
 3. Watch your files and directories using compiler flags in TypeScripty
 
-```npm
+```typescript
 tsc -w
 ```
