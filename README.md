@@ -17,9 +17,3 @@ npm install -g typescript
 ```npm
 tsc -w
 ```
-
-
-## Demo and Documentation
-
-- Open the [demo page](http://zuramai.github.io/mazer/demo)
-- Open the [documentation page](http://zuramai.github.io/mazer/docs)
